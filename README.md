@@ -1,2 +1,2 @@
 # polyBoard
-Snowboard game made in unity
+Snowboard game made in unity for windows
